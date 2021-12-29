@@ -10,11 +10,12 @@
 
 // export default firebaseConfig;
 const firebaseConfig = {
-  apiKey: "AIzaSyDbbFnshDbzEnoZOiRrgIg5EJJujhRITEQ",
-  authDomain: "traveling-zone-486b9.firebaseapp.com",
-  projectId: "traveling-zone-486b9",
-  storageBucket: "traveling-zone-486b9.appspot.com",
-  messagingSenderId: "387337745175",
-  appId: "1:387337745175:web:e4e0052ab845d705f4fd52"
+  apiKey: "AIzaSyBhEqx4-XSXovhF-B5_myeIHyS8BLelVAY",
+  authDomain: "tour-page-7c167.firebaseapp.com",
+  projectId: "tour-page-7c167",
+  storageBucket: "tour-page-7c167.appspot.com",
+  messagingSenderId: "796871820039",
+  appId: "1:796871820039:web:669ffc176971ad07323ba2",
+  measurementId: "G-0Z5W7TJ1MS"
 };
 export default firebaseConfig;
