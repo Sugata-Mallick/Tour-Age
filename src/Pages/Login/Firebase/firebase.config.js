@@ -10,12 +10,12 @@
 
 // export default firebaseConfig;
 const firebaseConfig = {
-  apiKey: "AIzaSyBhEqx4-XSXovhF-B5_myeIHyS8BLelVAY",
-  authDomain: "tour-page-7c167.firebaseapp.com",
-  projectId: "tour-page-7c167",
-  storageBucket: "tour-page-7c167.appspot.com",
-  messagingSenderId: "796871820039",
-  appId: "1:796871820039:web:669ffc176971ad07323ba2",
-  measurementId: "G-0Z5W7TJ1MS"
+  apiKey: "AIzaSyBHyAz1aCLV2amNgkjjvV1Th5_S9muhApo",
+  authDomain: "tour-page-168ef.firebaseapp.com",
+  projectId: "tour-page-168ef",
+  storageBucket: "tour-page-168ef.appspot.com",
+  messagingSenderId: "73226597404",
+  appId: "1:73226597404:web:9d266f21176149d19e1bd9",
+  measurementId: "G-RDS0XV5YSC"
 };
 export default firebaseConfig;
